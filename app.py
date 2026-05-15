@@ -1,4 +1,4 @@
-%%writefile pharma_dashboard.py
+#%%writefile pharma_dashboard.py
 """
 💊 Pharmaceutical Inventory Intelligence Dashboard
 """
